@@ -1,0 +1,13 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+},
+{
+    "name": "nnaemekanweke/Flutterwave-Rave-Integration-PHP-Curl",
+    "description": "Use this code to integrate your PHP app to Flutterwave Payment Gateway",
+    "require": {
+        "php": ">=7.3",
+        "another-vendor/package": "1.0"
+    }
+}

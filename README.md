@@ -22,7 +22,7 @@ The request will contain the following parameters.
 - email `Your customer's email`
 - firstname `Your customer's first name`
 - lastname `Your customer's last name`
-- phonenumber `Your customer's phonenumber`
+- phone_number `Your customer's phonenumber`
 - pay_button_text `The payment button text you prefer`
 - ref `Your transaction reference. It must be unique per transaction.  By default, the Rave class generates a unique transaction reference for each transaction. Pass this parameter only if you uncommented the related section in the script below.`
 
